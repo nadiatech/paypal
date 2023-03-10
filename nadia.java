@@ -1,7 +1,6 @@
 
-hello
-nadia
-clair
+lair
 chaha
 cece
 bruce
+rechel
